@@ -1,0 +1,12 @@
+# add emails which you want to receive information about IP change
+emails:
+  - email1@me.com
+  - email2@me.com
+
+smtp:
+  server_name: "Vlion"
+  email: "send_account@example.com"
+  password: "<password>"
+  # get those two settings from your email service provider
+  smtp_server: "smtp.163.com"
+  smtp_server_port: "25"
